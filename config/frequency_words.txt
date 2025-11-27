@@ -1,2 +1,4 @@
 google
 gemini
+ai
+人工智能
