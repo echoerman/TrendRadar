@@ -1,1 +1,2 @@
-A股
+google
+gemini
